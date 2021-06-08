@@ -1,2 +1,2 @@
-# portfolio
-portfolio for recruiters
+# Sultanov Evgenii
+data analyst course projects
